@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecyclerScrollBar.iml" filepath="$PROJECT_DIR$/RecyclerScrollBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycler-scroll-bar/recycler-scroll-bar.iml" filepath="$PROJECT_DIR$/recycler-scroll-bar/recycler-scroll-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RecyclerScrollBar">
+        <attr name="rsbElevation" format="dimension" />
+        <attr name="rsbActiveColor" format="color" />
+        <attr name="rsbInactiveColor" format="color" />
+        <attr name="rsbBackgroundColor" format="color" />
+        <attr name="rsbAnimationDuration" format="integer" />
+        <attr name="rsbMode" format="enum">
+            <enum name="mode_default" value="0" />
+            <enum name="mode_fixed" value="1" />
+            <enum name="mode_shifting" value="2" />
+        </attr>
+        <attr name="rsbBackgroundStyle" format="enum">
+            <enum name="background_style_default" value="0" />
+            <enum name="background_style_static" value="1" />
+            <enum name="background_style_ripple" value="2" />
+        </attr>
+        <attr name="rsbAutoHideEnabled" format="boolean" />
+    </declare-styleable>
+</resources>
